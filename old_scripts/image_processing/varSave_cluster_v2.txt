@@ -1,0 +1,12 @@
+## Experiment information
+current_movie_ID
+final_rois
+final_rois_df
+all_rois_df
+cluster_analysis_params
+current_exp_ID
+stimType
+extraction_type
+x_size
+Genotype
+Age

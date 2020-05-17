@@ -1,0 +1,10 @@
+name: rf_analysis1
+channels:
+  - defaults
+dependencies:
+ - python=3.5
+ - h5py=2.8
+ - numpy
+ - scipy
+ - spyder
+prefix: /home/deniz/miniconda2/envs/rf_analysis

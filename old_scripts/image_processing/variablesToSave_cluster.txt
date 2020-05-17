@@ -1,0 +1,81 @@
+## Experiment information
+current_exp_ID
+dataDir
+
+# The unique ID of the image
+imageID 
+
+## Stimulus output data
+# The path of stimulus in the stimulus computer
+stimType
+# Stimulus output directory
+stimOutFile
+# Number of epoch counting the baseline
+epochCount 
+# The name of the stimulus used
+stimName 
+# path of the stimulus input file that is located in the user’s computer
+stimInputFile 
+stimInputData
+stimulus_information
+
+## XML file data
+# Name of the xml file
+xmlFile 
+# Time it takes to acquire a frame 1/FPS
+framePeriod
+# the X,Y,Z coordinates
+layerPosition 
+
+
+## Time series and clustering related
+mean_image
+frame_num
+SNR_image
+DSI_image
+
+# Cluster movie and clustering algorithm
+selected_movie_dir 
+epochs_to_use
+cluster_analysis_params
+initial_cluster_num
+all_masks_aggregate
+sep_masks
+area_min
+area_max
+
+## Metadata of clusters
+
+# Cluster numbers, layers
+layer_masks
+BG_mask
+cluster_numbers 
+cluster_layer_information 
+
+# Cluster properties
+# all clusters
+SNR_max_matrix
+TF_tuning_clusters
+DSI_clusters
+Corr_matrix
+
+# Selected clusters
+selected_cluster_indices
+selected_clusters_SNR
+selected_clusters_TF
+selected_clusters_DSI
+selected_clusters_Corr
+selected_cluster_TF_tuning_no_edge
+selected_masks_all
+
+# Response related information of clusters before thresholding
+wholeTraces_allTrials_ROIs 
+trialAvgAllRoi
+trialCoor
+trialCount
+isRandom
+
+# Rate of interpolation
+interpolationRate 
+# Data interpolated to intRate
+interpolatedAllRoi 

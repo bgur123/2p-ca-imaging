@@ -1,0 +1,53 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  7 13:38:44 2020
+
+@author: burakgur
+"""
+
+# Region extraction with directional stimulus
+# RF mapping with 8D stimulus
+# Temporal frequency tunings with transferred ROIs
+
+'8D_edges_find_rois_save' 
+'2D_edges_find_rois_delay_profile_save'
+'stripes_ON_delay_profile'
+'stripes_OFF_delay_profile'
+'gratings_transfer_rois_save'
+
+
+'2D_edges_find_save'
+'STF_1' # STF 1: 15 30 45 dps / 0.1 0.3 1 3 10 Hz
+
+# FFF and stripes combined
+
+'5sFFF_analyze_save'
+'stripes_ON_vertRF_transfer'
+'stripes_ON_horRF_transfer'
+'stripes_OFF_vertRF_transfer'
+'stripes_OFF_horRF_transfer'
+
+
+
+# Stripe mapping
+'stripes_ON_horRF_save_rois'
+
+
+## LUMINANCE PROCESSING
+
+# T4T5
+'luminance_edges_OFF'
+'luminance_edges_ON'
+'luminance_gratings'
+
+
+# REST
+'8D_10dps_stripes_RF' #RF mapping with 8D stripes 10dps
+'ternaryWN_elavation_RF'
+
+'11_steps_luminance' 
+
+'A_B_steps'
+
+'moving_gratings'

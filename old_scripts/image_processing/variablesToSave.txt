@@ -1,0 +1,59 @@
+## Experiment information
+current_exp_ID
+dataDir
+saveOutputDir
+# The unique ID of the image
+imageID 
+
+## Stimulus output data
+# The path of stimulus in the stimulus computer
+stimType
+# Stimulus output directory
+stimOutFile
+# Stimulus output data as an array 
+rawStimData 
+# Number of epoch counting the baseline
+epochCount 
+# The name of the stimulus used
+stimName 
+# All data contained in the stimulus input file
+stimInputData 
+# path of the stimulus input file that is located in the user’s computer
+stimInputFile 
+
+## XML file data
+# Name of the xml file
+xmlFile 
+ # Time it takes to acquire a frame 1/FPS
+framePeriod
+# the X,Y,Z coordinates
+layerPosition 
+micRelTimes 
+
+## Extracted signals' metadata
+chNames
+usedChannel
+roiKeys
+usedRoiKey
+# ROI numbers
+header 
+# ROI types
+tags 
+bgIndex 
+
+# Raw signals (bg subtracted without dF/F)
+bgSub 
+
+# Coordinates to divide into epochs/trials 
+trialCoor
+trialCount
+isRandom
+
+## Final data, normalized and trial averaged, separated into epochs
+baselineEpochPresent
+baselineDurationBeforeEpoch
+trialAvgAllRoi
+# Rate of interpolation
+interpolationRate 
+# Data interpolated to intRate
+interpolatedAllRoi 

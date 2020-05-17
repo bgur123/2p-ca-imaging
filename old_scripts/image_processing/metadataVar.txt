@@ -1,0 +1,36 @@
+#Important information
+ID
+imageID
+current_exp_ID
+stimName
+genotype
+experiment-type
+toxin
+#Other relevant information
+flyID
+age
+interpolationRate 
+framePeriod
+layerPosition
+chNames
+usedChannel
+roiKeys
+usedRoiKey
+bgIndex
+#Additional and optional information
+condition-1
+condition-2
+condition-3
+comment-1
+comment-2
+comment-3
+#Data directory in user's computer
+dataDir
+saveOutputDir
+#Stimulus information
+projectorCurrent
+stimOutFile
+stimInputFile
+stimType
+epochCount
+trialCount

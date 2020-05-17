@@ -1,0 +1,29 @@
+## Genotypes for easy entering in the processing scripts
+
+# T4 T5 genotypes
+Genotype = 'R64G09-Recomb-Homo'
+Genotype = 'R64G09-Recomb-Hete'
+Genotype = 'R42F06-x2'
+
+Genotype = 'R64G09-Recomb-lexAopGC6f'
+
+# 191220_GluClflpTEV_NI_1
+'Exp_Mi1Rec__GluClflpTEVNI_GluClflpSTOPD'
+'Pos_Mi1Rec__plus_GluClflpSTOPD'
+'Neg_Mi1Rec__DfED6025_GluClflpSTOPD'
+
+
+# 200217 Luminance lamina medulla neurons (use 3 identifying letters to start 
+# with genotype: Mi1)
+'Mi1Rec_lexAopGC6f'
+'Tm9Rec_lexAopGC6f'
+'Tm3_13E12LexA_lexAopGC6f'
+'L3__MH56Gal4_UASGC6f'
+'L1__c202Gal4_UASGC6f'
+'Mi4_splitGal4_UASGC6f'
+
+
+#200310 GluClalpha_NI_cut_experiments
+'Mi1Rec_UAS-ICAM-TEVp__GluClflpTEVNI_Df-elavGal4' # EXP
+'NI_ctrl_Mi1Rec_UAS-+__GluClflpTEVNI_Df-elavGal4' # NI control
+'ICAMTEV_ctrl_Mi1Rec_UAS-ICAM-TEVp__+_Df-elavGal4' # ICAM TEVp control
